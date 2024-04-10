@@ -1,5 +1,5 @@
 
-// by default in typescript react component return jsx element but we can define another retutn type
+// by default in typescript react component return jsx element but we can define another return type
 function Component():JSX.Element |null |string {
   return null
   return "hello"
